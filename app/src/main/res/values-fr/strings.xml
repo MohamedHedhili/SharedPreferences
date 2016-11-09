@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="TextView">Votre adresse mail est :</string>
+    <string name="tittle">Page Authentification</string>
+    <string name="RadioButton1">Francais</string>
+    <string name="RadioButton2">Anglais</string>
+    <string name="password" >mot de passe</string>
+    <string name="Login" >Adresse Electronique</string>
+    <string name="Button">Connexion</string>
+
+
+</resources>

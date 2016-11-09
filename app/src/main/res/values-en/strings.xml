@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="TextView">Login</string>
+    <string name="tittle">Sign in </string>
+    <string name="RadioButton1">French</string>
+    <string name="RadioButton2">English</string>
+    <string name="password" >Password</string>
+    <string name="Login" >Login</string>
+    <string name="Button">Connection</string>
+</resources>
